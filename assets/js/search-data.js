@@ -157,6 +157,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_23/";
+            },},{id: "news-西工大软件学院徐韬团队参与长春航空展-受到多方媒体报道-october-14-2025",
+          title: '西工大软件学院徐韬团队参与长春航空展！受到多方媒体报道！(October 14. 2025)',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_24/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
