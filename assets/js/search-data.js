@@ -162,6 +162,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_24/";
+            },},{id: "news-实验室抑郁症初筛系统受到央视采访报道-october-20-2025",
+          title: '实验室抑郁症初筛系统受到央视采访报道！(October 20. 2025)',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_25/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
